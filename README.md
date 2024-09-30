@@ -75,6 +75,7 @@ output_path = '/mnt/data/Processed_Encoding_Data.csv'
 data.to_csv(output_path, index=False)
 ```
 # RESULT:
-      Thus the program to read the given data and perform Feature Encoding and Transformation process and save the data to a file is successfully executed
+
+Thus the program to read the given data and perform Feature Encoding and Transformation process and save the data to a file is successfully executed
 
        
